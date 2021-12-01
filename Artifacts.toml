@@ -1,9 +1,9 @@
 [[xdm]]
 arch = "x86_64"
-git-tree-sha1 = "cd24b7f9bca1568b462b4c0a66f8b9d4ca7c9772"
+git-tree-sha1 = "7f396290ca7818745532576f226e5eec277af60d"
 libc = "glibc"
 os = "linux"
 
     [[xdm.download]]
-    sha256 = "9bae484bb6164d67ff3d79631ae34b62d5dbb543f3babd2b017726c394174419"
+    sha256 = "3a9a599716f2aca5035ee7e2858d86d6c65410b0497b9aa9c4fb1a558f9d153a"
     url = "https://github.com/Keno/xdm_jll/releases/download/xdm-v2.4.0+0/xdm.v2.4.0.x86_64-linux-gnu.tar.gz"
